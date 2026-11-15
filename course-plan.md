@@ -101,18 +101,23 @@ Este curso de 50 minutos (10 lecciones de 5 minutos) introduce a estudiantes de 
 
 ---
 
-## 👥 Elaboración
+## 👥 Elaboración y Equipo de Trabajo
 
-- **Universidad**: Universidad Peruana de Ciencias Aplicadas
+- **Universidad**: Universidad Peruana de Ciencias Aplicadas (UPC)
+- **Facultad**: Facultad de Ingeniería
 - **Carrera**: Ingeniería de Software
-- **Período**: 202620
-- **Curso**: 1ASI0730 Aplicaciones Web
-- **NRC**: [Número de NRC]
-- **Nombre del equipo**: TechnoLoad / TechFlow
-- **Líder del equipo**: [Nombres y Apellidos del líder]
+- **Curso**: 1ASI0730 - Aplicaciones Web
+- **NRC**: 8093
+- **Período Académico**: 2026-20
+- **Docente**: Bautista Ubillús, Efraín Ricardo
+- **Nombre de Startup**: TechnoLoad
+- **Nombre de Producto**: TechFlow
+- **Organización en GitHub**: [https://github.com/TechnoLoad-TechFlow](https://github.com/TechnoLoad-TechFlow)
+- **Repositorio del Curso**: [https://github.com/TechnoLoad-TechFlow/webdev-course-technoload](https://github.com/TechnoLoad-TechFlow/webdev-course-technoload)
+- **Líder del equipo (Team Leader)**: Castillo Guevara, Mathias Alejandro (Código: U202323911)
 - **Integrantes del equipo**:
-  - [Nombres y Apellidos del Integrante 1]
-  - [Nombres y Apellidos del Integrante 2]
-  - [Nombres y Apellidos del Integrante 3]
-  - [Nombres y Apellidos del Integrante 4]
-- **Fecha de entrega**: [Fecha]
+  1. Castillo Guevara, Mathias Alejandro (Código: U202323911)
+  2. Gutiérrez Lizarbe, Wilmer Sebastián (Código: U202410783)
+  3. Tantalean Granda, Nicolas (Código: U202412044)
+  4. Diaz Caruzo, Edgar Daniel (Código: U202410728)
+- **Fecha de entrega**: 15 de noviembre de 2026
